@@ -9,7 +9,7 @@ GPIO.setmode(GPIO.BCM)
 red = 5
 green = 6
 blue = 13
-doorSwitch = 23
+doorSwitch = 18
 
 door=0
 
